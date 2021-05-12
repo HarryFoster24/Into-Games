@@ -936,3 +936,46 @@ Script Stack (0 frames):
 [2021.05.12-14.29.16:554][498]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000162ABF48A00), frame # 7498
 [2021.05.12-14.29.16:569][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
 [2021.05.12-14.29.16:596][499]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.12-14.31.50:222][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.05.12-14.31.52:035][541]LogSlate: Window 'Save Content' being destroyed
+[2021.05.12-14.31.52:189][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectileAssets/Fire_Sparks01" FILE="D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ProjectileAssets/Fire_Sparks01.uasset" SILENT=true
+[2021.05.12-14.31.52:194][541]LogSavePackage: Moving 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Saved/Fire_Sparks01FD3B9F364F0C6F09FCEAA4A10D99C2AE.tmp' to 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ProjectileAssets/Fire_Sparks01.uasset'
+[2021.05.12-14.31.52:206][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/projectile" FILE="D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Blueprints/projectile.uasset" SILENT=true
+[2021.05.12-14.31.52:229][541]LogSavePackage: Moving 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Saved/projectile0843D05B483A7ABBBE23D8895B77931F.tmp' to 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Blueprints/projectile.uasset'
+[2021.05.12-14.31.52:246][541]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-14.31.52:246][541]LogContentValidation: Display: Validating SoundWave /Game/ProjectileAssets/Fire_Sparks01.Fire_Sparks01
+[2021.05.12-14.31.52:246][541]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/projectile.projectile
+[2021.05.12-14.31.53:182][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Harry" FILE="D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Maps/Harry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.12-14.31.53:203][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.12-14.31.53:225][631]LogSavePackage: Moving 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Saved/HarryA0E55B394C7556A25AFCFEAAB2E3E41A.tmp' to 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Maps/Harry.umap'
+[2021.05.12-14.31.53:311][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Harry_BuiltData" FILE="D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Maps/Harry_BuiltData.uasset" SILENT=true
+[2021.05.12-14.31.53:342][631]LogSavePackage: Moving 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Saved/Harry_BuiltDataB9EED4A44989C1B7B6F8B0A616CBF8A9.tmp' to 'D:/Harry Foster INTO GAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Maps/Harry_BuiltData.uasset'
+[2021.05.12-14.31.53:355][631]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-14.31.53:355][631]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Harry.Harry
+[2021.05.12-14.31.53:355][631]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Harry_BuiltData.Harry_BuiltData
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.55:846][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Harry Foster INTO GAMES/Into-Games'
+[2021.05.12-14.31.59:829][861]LogSlate: Window 'Submit Files' being destroyed
+[2021.05.12-14.32.00:596][861]SourceControl: Error: warning: could not open directory 'IntoGames/Content/StarterContent/Particles/': No such file or directory
+[2021.05.12-14.32.00:596][861]SourceControl: Error: warning: could not open directory 'IntoGames/Content/StarterContent/Props/': No such file or directory
+[2021.05.12-14.32.01:754][861]LogSourceControl: commit successful: [Harry 3145b2e] final submit
+[2021.05.12-14.32.01:886][861]SourceControl: [Harry 3145b2e] final submit
+[2021.05.12-14.32.01:886][861]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2021.05.12-14.32.01:886][861]SourceControl:  rewrite IntoGames/Content/ThirdPersonBP/Blueprints/projectile.uasset (78%)
+[2021.05.12-14.32.01:889][861]SourceControl: Commited [Harry 3145b2e] final submit.
