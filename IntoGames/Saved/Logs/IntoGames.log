@@ -5191,3 +5191,40 @@ Please see Output Log for details.
 [2021.05.12-14.10.00:525][572]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.12-14.10.00:526][572]LogContentValidation: Display: Validating StaticMesh /Game/CornerPieces/corner_red_group7_pasted__group3_pasted__pasted__pCube10.corner_red_group7_pasted__group3_pasted__pasted__pCube10
 [2021.05.12-14.10.00:526][572]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Dylan.Dylan
+[2021.05.12-14.18.27:485][146]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.05.12-14.18.27:485][146]LogTemp: Resetting audio stream to device id 
+[2021.05.12-14.31.53:377][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.12-14.31.53:544][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CornerPieces/corner_red_pasted__pCube3" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_red_pasted__pCube3.uasset" SILENT=true
+[2021.05.12-14.31.53:572][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/corner_red_pasted__pCube3B9177DD842E6633257C30DBF24BBFF52.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_red_pasted__pCube3.uasset'
+[2021.05.12-14.31.54:070][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CornerPieces/corner_red_pasted__pCube2" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_red_pasted__pCube2.uasset" SILENT=true
+[2021.05.12-14.31.54:097][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/corner_red_pasted__pCube2D94BBD58409E11C70DB38E9FDA903568.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_red_pasted__pCube2.uasset'
+[2021.05.12-14.31.54:253][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/corner_red_pasted__pasted__pPlan73D22E1B4A182B87612D18BC1DBF9B0B.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_red_pasted__pasted__pPlane1.uasset'
+[2021.05.12-14.31.54:441][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CornerPieces/corner_blue_pasted__pCube2" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_blue_pasted__pCube2.uasset" SILENT=true
+[2021.05.12-14.31.54:476][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/corner_blue_pasted__pCube25CE401594AC18114EF8274A69E8F6742.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_blue_pasted__pCube2.uasset'
+[2021.05.12-14.31.54:637][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/corner_blue_group7_pasted__group0428F99B4C898FD257FEEB9E60A4B035.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_blue_group7_pasted__group3_pasted__pasted__pCube10.uasset'
+[2021.05.12-14.31.54:790][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CornerPieces/corner_blue_pasted__pCube3" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_blue_pasted__pCube3.uasset" SILENT=true
+[2021.05.12-14.31.54:818][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/corner_blue_pasted__pCube35856C053449CED4ED694698761A6C4FA.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/CornerPieces/corner_blue_pasted__pCube3.uasset'
+[2021.05.12-14.31.55:017][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pillars/pillar_yellow" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_yellow.uasset" SILENT=true
+[2021.05.12-14.31.55:053][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/pillar_yellowA5FF0F384781FB4F52FB2FB0F867EE6E.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_yellow.uasset'
+[2021.05.12-14.31.55:310][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/pillar_yellow__pillar_yellow_BasE98A4C2140B1D06058A3AB8448E5219F.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_yellow__pillar_yellow_BaseColor.uasset'
+[2021.05.12-14.31.55:492][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pillars/lambert1" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/lambert1.uasset" SILENT=true
+[2021.05.12-14.31.55:494][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/lambert12A94FA094FF368B77D195B8436EA52B3.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/lambert1.uasset'
+[2021.05.12-14.31.55:662][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pillars/pillar_blue_pillar_blue_BaseColor" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_blue_pillar_blue_BaseColor.uasset" SILENT=true
+[2021.05.12-14.31.55:726][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/pillar_blue_pillar_blue_BaseColoACA0BE5E4F339006FDC51389E7B4280B.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_blue_pillar_blue_BaseColor.uasset'
+[2021.05.12-14.31.55:918][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pillars/pillar_red" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_red.uasset" SILENT=true
+[2021.05.12-14.31.55:956][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/pillar_red30E43AB24EF090DEE888079B8AED734F.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_red.uasset'
+[2021.05.12-14.31.56:166][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pillars/pillar_red_pillar_red_BaseColor" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_red_pillar_red_BaseColor.uasset" SILENT=true
+[2021.05.12-14.31.56:231][175]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/pillar_red_pillar_red_BaseColor692FD64941F8F386CAD5C081337074C2.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Pillars/pillar_red_pillar_red_BaseColor.uasset'
+[2021.05.12-14.31.56:493][175]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/CornerPieces/corner_red_pasted__pCube3.corner_red_pasted__pCube3
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/CornerPieces/corner_red_pasted__pCube2.corner_red_pasted__pCube2
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/CornerPieces/corner_red_pasted__pasted__pPlane1.corner_red_pasted__pasted__pPlane1
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/CornerPieces/corner_blue_pasted__pCube2.corner_blue_pasted__pCube2
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/CornerPieces/corner_blue_group7_pasted__group3_pasted__pasted__pCube10.corner_blue_group7_pasted__group3_pasted__pasted__pCube10
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/CornerPieces/corner_blue_pasted__pCube3.corner_blue_pasted__pCube3
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/Pillars/pillar_yellow.pillar_yellow
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating Texture2D /Game/Pillars/pillar_yellow__pillar_yellow_BaseColor.pillar_yellow__pillar_yellow_BaseColor
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating Material /Game/Pillars/lambert1.lambert1
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating Texture2D /Game/Pillars/pillar_blue_pillar_blue_BaseColor.pillar_blue_pillar_blue_BaseColor
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating StaticMesh /Game/Pillars/pillar_red.pillar_red
+[2021.05.12-14.31.56:493][175]LogContentValidation: Display: Validating Texture2D /Game/Pillars/pillar_red_pillar_red_BaseColor.pillar_red_pillar_red_BaseColor
