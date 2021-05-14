@@ -917,3 +917,165 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-09.01.27:192][156]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027162D4FE00), frame # 43156
 [2021.05.14-09.01.27:201][156]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
 [2021.05.14-09.01.27:234][157]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.05.14-09.03.54:349][856]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4fc43489-df27-438a-9e25-e791b38c2c71}.
+[2021.05.14-09.03.54:350][856]LogTemp: Resetting audio stream to device id 
+[2021.05.14-09.03.54:360][856]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.14-09.03.54:360][856]LogAudioMixer: Display: 1: FrontRight
+[2021.05.14-09.06.15:583][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.05.14-09.06.15:615][277]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Map_Auto1C1F72E1D4D5B0D3749AFD7B24F02690E.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Autosaves/Game/ThirdPersonBP/Maps/Map_Auto1.umap'
+[2021.05.14-09.06.15:617][277]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Map' took 0.074
+[2021.05.14-09.06.15:617][277]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2021.05.14-09.06.15:617][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menus/PauseMenu/Resume_Hovered] ([1] browsable assets)...
+[2021.05.14-09.06.15:619][277]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menus/PauseMenu/Resume_Hovered.Resume_Hovered]
+[2021.05.14-09.06.15:619][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/PauseMenu/Resume_Hovered]
+[2021.05.14-09.06.15:622][277]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Resume_Hovered_Auto12F58332C4BE7ECF22E442794DDE2EC37.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Autosaves/Game/Menus/PauseMenu/Resume_Hovered_Auto1.uasset'
+[2021.05.14-09.06.15:622][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menus/PauseMenu/Resume] ([1] browsable assets)...
+[2021.05.14-09.06.15:624][277]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menus/PauseMenu/Resume.Resume]
+[2021.05.14-09.06.15:624][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/PauseMenu/Resume]
+[2021.05.14-09.06.15:624][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/PauseMenu/Resume" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Autosaves/Game/Menus/PauseMenu/Resume_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.05.14-09.06.15:627][277]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Resume_Auto15CD16476489B89A3CA4437B401C2B67F.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Autosaves/Game/Menus/PauseMenu/Resume_Auto1.uasset'
+[2021.05.14-09.06.15:627][277]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.05.14-09.22.23:261][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.14-09.22.23:276][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.14-09.22.23:276][ 63]PIE: New page: PIE session: Map (14 May 2021, 11:22:23)
+[2021.05.14-09.22.23:276][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Map
+[2021.05.14-09.22.23:286][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009864s)
+[2021.05.14-09.22.23:287][ 63]LogAIModule: Creating AISystem for world Map
+[2021.05.14-09.22.23:287][ 63]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002712E75D200), frame # 50063
+[2021.05.14-09.22.23:287][ 63]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002713C9BF880), frame # 50063
+[2021.05.14-09.22.23:287][ 63]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2021.05.14-09.22.23:287][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Map.Map to /Game/ThirdPersonBP/Maps/UEDPIE_0_Map.Map (0.011220s)
+[2021.05.14-09.22.23:330][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.14-09.22.23:334][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.14-09.22.23:334][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.14-09.22.23:334][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.14-09.22.23:334][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.14-09.22.23:334][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.14-09.22.23:334][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.14-09.22.23:334][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.14-09.22.23:334][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.14-09.22.23:335][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.14-09.22.23:335][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.14-09.22.23:338][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.14-09.22.23:338][ 63]LogAudioMixer: Display: 1: FrontRight
+[2021.05.14-09.22.23:353][ 63]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.05.14-09.22.23:353][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.14-09.22.23:353][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.14-09.22.23:353][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.14-09.22.23:353][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.14-09.22.23:366][ 63]LogInit: FAudioDevice initialized.
+[2021.05.14-09.22.23:387][ 63]LogLoad: Game class is 'GameModeBase'
+[2021.05.14-09.22.23:394][ 63]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.05.14-10.22.23
+[2021.05.14-09.22.23:396][ 63]LogWorld: Bringing up level for play took: 0.007185
+[2021.05.14-09.22.23:397][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.14-09.22.23:400][ 63]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.14-09.22.23:403][ 63]PIE: Server logged in
+[2021.05.14-09.22.23:405][ 63]PIE: Play in editor total start time 0.132 seconds.
+[2021.05.14-09.22.28:255][641]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.28:255][641]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.28:255][641]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.28:255][641]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.31:143][987]LogBlueprintUserMessages: [projectile_C_0] 1
+[2021.05.14-09.22.36:142][585]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.36:142][585]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.36:142][585]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.36:142][585]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.36:558][635]LogBlueprintUserMessages: [projectile_C_1] 4
+[2021.05.14-09.22.41:551][234]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.41:551][234]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.41:551][234]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.41:551][234]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.22.43:271][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=268.396 Y=-1172.427 Z=379.706] for [AI_C]
+[2021.05.14-09.23.54:516][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-09.23.54:516][277]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Map
+[2021.05.14-09.23.54:517][277]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.23.54:518][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.23.54:539][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.14-09.23.54:559][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.23.54:616][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-09.23.54:618][277]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002713C9BF880), frame # 56277
+[2021.05.14-09.23.54:618][277]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002712E75D200), frame # 56277
+[2021.05.14-09.23.54:623][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.05.14-09.23.54:648][278]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.14-09.24.04:869][470]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AIs/Health/playerHealth.playerHealth
+[2021.05.14-09.24.07:370][719]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.24.07:370][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.24.07:377][719]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.24.07:377][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.24.21:541][348]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/fireDelayWidget.fireDelayWidget
+[2021.05.14-09.24.26:918][943]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.24.26:918][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.24.26:936][943]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.24.26:936][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.24.29:784][210]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.14-09.24.29:799][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.14-09.24.29:799][210]PIE: New page: PIE session: Map (14 May 2021, 11:24:29)
+[2021.05.14-09.24.29:823][210]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Map
+[2021.05.14-09.24.29:834][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012301s)
+[2021.05.14-09.24.29:835][210]LogAIModule: Creating AISystem for world Map
+[2021.05.14-09.24.29:835][210]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027115398200), frame # 60210
+[2021.05.14-09.24.29:835][210]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002711A4116C0), frame # 60210
+[2021.05.14-09.24.29:836][210]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2021.05.14-09.24.29:836][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Map.Map to /Game/ThirdPersonBP/Maps/UEDPIE_0_Map.Map (0.013592s)
+[2021.05.14-09.24.29:884][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.05.14-09.24.29:888][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.14-09.24.29:888][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.14-09.24.29:888][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.14-09.24.29:888][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.14-09.24.29:888][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.14-09.24.29:888][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.14-09.24.29:888][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.14-09.24.29:888][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.14-09.24.29:889][210]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.14-09.24.29:889][210]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.14-09.24.29:891][210]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.14-09.24.29:891][210]LogAudioMixer: Display: 1: FrontRight
+[2021.05.14-09.24.29:905][210]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.05.14-09.24.29:905][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.14-09.24.29:905][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.14-09.24.29:905][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.14-09.24.29:906][210]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.14-09.24.29:918][210]LogInit: FAudioDevice initialized.
+[2021.05.14-09.24.29:938][210]LogLoad: Game class is 'GameModeBase'
+[2021.05.14-09.24.29:946][210]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.05.14-10.24.29
+[2021.05.14-09.24.29:948][210]LogWorld: Bringing up level for play took: 0.007576
+[2021.05.14-09.24.29:949][210]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.05.14-09.24.29:954][210]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.14-09.24.29:960][210]PIE: Server logged in
+[2021.05.14-09.24.29:962][210]PIE: Play in editor total start time 0.166 seconds.
+[2021.05.14-09.24.30:156][229]Cmd: LevelEditor.ToggleImmersive
+[2021.05.14-09.24.34:781][770]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.24.34:781][770]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.24.34:781][770]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.24.34:781][770]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Done
+[2021.05.14-09.24.37:029][ 32]Cmd: DisableAllScreenMessages
+[2021.05.14-09.24.37:029][ 32]LogEngine: Onscreen warnings/messages are now DISABLED
+[2021.05.14-09.24.55:859][244]Cmd: LevelEditor.ToggleImmersive
+[2021.05.14-09.24.56:165][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-09.24.56:165][260]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Map
+[2021.05.14-09.24.56:166][260]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.24.56:168][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.24.56:185][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.14-09.24.56:202][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.24.56:267][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-09.24.56:268][260]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002711A4116C0), frame # 62260
+[2021.05.14-09.24.56:268][260]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027115398200), frame # 62260
+[2021.05.14-09.24.56:277][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.05.14-09.24.56:304][261]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.05.14-09.24.57:928][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.05.14-09.24.59:054][449]LogSlate: Window 'Save Content' being destroyed
+[2021.05.14-09.25.06:372][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Map" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.14-09.25.06:406][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.14-09.25.06:433][663]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Map5781D2D94EE3BCA32365E899091641E7.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/ThirdPersonBP/Maps/Map.umap'
+[2021.05.14-09.25.06:466][663]AssetCheck: New page: Asset Save: Map
+[2021.05.14-09.25.06:466][663]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Map.Map
+[2021.05.14-09.25.47:658][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.05.14-09.25.51:526][979]LogSlate: Window 'Save Content' being destroyed
+[2021.05.14-09.25.53:666][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.05.14-09.25.53:808][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/PauseMenu/Resume_Hovered" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Menus/PauseMenu/Resume_Hovered.uasset" SILENT=true
+[2021.05.14-09.25.53:812][203]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/Resume_Hovered46DA865344C6EFC730BC6888952A7C24.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Menus/PauseMenu/Resume_Hovered.uasset'
+[2021.05.14-09.25.53:947][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/PauseMenu/Resume" FILE="D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Menus/PauseMenu/Resume.uasset" SILENT=true
+[2021.05.14-09.25.53:950][203]LogSavePackage: Moving 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Saved/ResumeD9805DA5488DC296589DABAE034D93F9.tmp' to 'D:/DylanGriceINTOGAMES/Into-Games/IntoGames/Content/Menus/PauseMenu/Resume.uasset'
+[2021.05.14-09.25.54:142][203]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-09.25.54:142][203]LogContentValidation: Display: Validating Texture2D /Game/Menus/PauseMenu/Resume_Hovered.Resume_Hovered
+[2021.05.14-09.25.54:142][203]LogContentValidation: Display: Validating Texture2D /Game/Menus/PauseMenu/Resume.Resume
